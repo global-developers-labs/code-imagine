@@ -22,7 +22,7 @@
 
 1.  **استنساخ المستودع:**
     ```bash
-    git clone https://github.com/global-developers-labs/Luma-AI.git
+    git clone https://github.com/global-developers-labs/code-imagine.git
     cd Luma-AI
     ```
     يقوم هذا الأمر باستنساخ مستودع Luma AI من GitHub إلى جهازك، ثم ينتقل إلى مجلد المشروع.
@@ -84,7 +84,7 @@
 
 نرحب بالمساهمات في تطوير Luma AI. إذا كان لديك اقتراحات أو تحسينات، فلا تتردد في فتح مشكلة (issue) أو إرسال طلب سحب (pull request) عبر مستودعنا على GitHub:
 
-[GitHub Repository: global-developers-labs/Luma-AI](https://github.com/global-developers-labs/Luma-AI)
+[GitHub Repository: global-developers-labs/Luma-AI](https://github.com/global-developers-labs/code-imagine)
 
 ## الترخيص
 
